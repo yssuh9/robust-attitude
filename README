@@ -1,4 +1,4 @@
-This is a matlab program for robust attitude estimation.
+This is a matlab program for robust attitude estimation using inertial and magnetic sensors.
 
 1. For a very brief explanation of the proposed algorithm, please see "algorithm.pdf".
 (An article containing the detailed algorithm is under submission to an academic journal and
