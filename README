@@ -1,8 +1,8 @@
 This is a matlab program for robust attitude estimation using inertial and magnetic sensors.
 
 1. For a very brief explanation of the proposed algorithm, please see "algorithm.pdf".
-(An article containing the detailed algorithm is under submission to an academic journal and
-will be uploaded in https://uouisl.wordpress.com/research/ upon acceptance.)
+(An article containing the detailed algorithm is in https://uouisl.wordpress.com/research/)
+("l1 norm regularization robust attitude smoother using inertial and magnetic sensors")
 
 2. Main matlab file is "mainmatlab.m".  Run the file with different "simulation_mode" and "data_num" values
 (see the explanation inside the m file)
